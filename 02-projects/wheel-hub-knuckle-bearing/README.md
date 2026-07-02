@@ -1,30 +1,30 @@
-# Wheel Hub, Knuckle ve Rulman Tasarımı
+# Wheel Hub, Knuckle and Bearing Design
 
-Bu projede araç süspansiyon ve tekerlek bağlantı sistemi içerisinde yer alan wheel hub, knuckle ve rulman bileşenleri SolidWorks kullanılarak modellenmiştir.
+In this project, the wheel hub, knuckle, and bearing components used in the vehicle suspension and wheel connection system were modeled using SolidWorks.
 
-## Proje Amacı
+## Project Purpose
 
-Bu çalışmanın amacı, tekerlek bağlantı sisteminde kullanılan temel mekanik parçaların 3B modellemesini yapmak ve bu parçalar arasındaki bağlantı mantığını portfolyo düzeninde sunmaktır.
+The purpose of this study is to create 3D models of the main mechanical components used in the wheel connection system and to present the connection logic between these parts in a portfolio format.
 
-## Kullanılan Program
+## Software Used
 
 - SolidWorks
 
-## Proje İçeriği
+## Project Content
 
-- Wheel hub modellemesi
-- Knuckle parçası modellemesi
-- Rulman yerleşimi
-- Mekanik bağlantı yüzeylerinin oluşturulması
-- SolidWorks kaynak dosyaları
+- Wheel hub modeling
+- Knuckle part modeling
+- Bearing placement
+- Creation of mechanical connection surfaces
+- SolidWorks source files
 
-## Dosyalar
+## Files
 
-- Right_Knuckle_Hub_Bearing.zip: Wheel hub, knuckle ve rulman bileşenlerine ait SolidWorks proje dosyalarını içerir.
+- Right_Knuckle_Hub_Bearing.zip: Contains the SolidWorks project files for the wheel hub, knuckle, and bearing components.
 
-## Kazanımlar
+## Skills Gained
 
-- Otomotiv parça modelleme pratiği
-- Mekanik bağlantı elemanlarının konumlandırılması
-- Rulman ve porya bağlantı mantığının anlaşılması
-- SolidWorks üzerinde parça ve montaj düzeni oluşturma
+- Automotive part modeling practice
+- Positioning of mechanical connection components
+- Understanding the connection logic between the bearing and hub
+- Creating part and assembly organization in SolidWorks
